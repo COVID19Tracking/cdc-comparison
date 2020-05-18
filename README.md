@@ -9,3 +9,5 @@ Note that the freshness of testing data differs from that of the cases/deaths da
 
 For that reason, we compare the CDC testing data to CTP data published on May 14 (which reflects May 13). For the positives/deaths 
 data comparison, we use CTP data published on May 16.
+
+The main data file created in this repo and used for most plots and analyses is: https://github.com/COVID19Tracking/cdc-comparison/blob/master/merged_data_for_analysis.csv.
