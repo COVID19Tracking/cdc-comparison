@@ -14,3 +14,6 @@ The main data file created in this repo and used for most plots and analyses is:
 
 The only data point not directly capture in the main data file is whether a state reports testing counts in specimens, cases, or both.
 We store that data in: https://github.com/COVID19Tracking/cdc-comparison/blob/master/ctp_514_specimen_tests.csv.
+
+## Analysis
+The main analysis is done in a Jupyter notebook: https://github.com/COVID19Tracking/cdc-comparison/blob/master/CDC%20vs%20CTP%20comparison.ipynb.
