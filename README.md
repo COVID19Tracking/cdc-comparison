@@ -11,3 +11,6 @@ For that reason, we compare the CDC testing data to CTP data published on May 14
 data comparison, we use CTP data published on May 16.
 
 The main data file created in this repo and used for most plots and analyses is: https://github.com/COVID19Tracking/cdc-comparison/blob/master/merged_data_for_analysis.csv.
+
+The only data point not directly capture in the main data file is whether a state reports testing counts in specimens, cases, or both.
+We store that data in: https://github.com/COVID19Tracking/cdc-comparison/blob/master/ctp_514_specimen_tests.csv.
